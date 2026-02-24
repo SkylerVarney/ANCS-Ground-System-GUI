@@ -1,7 +1,7 @@
 # Ground System GUI for Real-Time Flight Computer
 
 <p align="center">
-  <img src="Grounds System GUI Screenshot.jpg" alt="Ground System GUI Screenshot" width="600">
+  <img src="Grounds System GUI.jpg" alt="Ground System GUI Screenshot" width="600">
 </p>
 
 This project is a custom-built **Ground System Graphical User Interface (GUI)** developed in **Processing (Java)** to visualize and interact with telemetry data from a real-time flight computer. It was designed to display live flight data such as orientation, altitude, velocity, and acceleration while also providing control panels for system testing and launch simulation.
